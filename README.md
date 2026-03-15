@@ -129,4 +129,3 @@ While JSONPlaceholder is a public test API with no real sensitive data, these fi
 
 ---
 
-## Repository Structure
