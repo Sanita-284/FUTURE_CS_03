@@ -25,7 +25,7 @@ The goal of this task was to perform a structured **API security analysis** on a
 ## Tools Used
 - **Postman** – Sending API requests and analyzing JSON responses  
 - **Browser Developer Tools** – Inspecting network requests, response headers, and API behavior  
-- **Manual Analysis** – Reviewing API responses for potential security risks  
+  
 
 ---
 
